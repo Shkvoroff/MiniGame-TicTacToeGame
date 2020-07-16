@@ -17,7 +17,7 @@ A simple Tic-Tac-Toe game, with some features.
 * Python
 
 ## Demo
-* Clone this repository (https://github.com/Shkvoroff/MiniGame-TicTacToe.git) on your local machine
+* Clone this repository (https://github.com/Shkvoroff/MiniGame-TicTacToeGame.git) on your local machine
 * Run this project in Python IDLE 3.X
 * Enjoy the game
 
